@@ -7,7 +7,7 @@
 
 #
 #### Для развертки бд
-### `docker-compose -f docker-compose.develop.yml up --build -d`
+### `docker-compose -f docker-compose.yml up --build -d`
 
 
 
