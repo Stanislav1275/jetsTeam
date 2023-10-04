@@ -12,7 +12,7 @@
 
 
 #### Для полной миграции бд:
-### `php artisan migration`
+### `php artisan migrate`
 ### `php artisan db:seed`
 ```роли admin и user, ```
 ```почта:роль@роль.com ```
