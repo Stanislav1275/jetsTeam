@@ -17,7 +17,7 @@ class ImpersonateController extends Controller
                 return redirect('/')->with('success', 'You are now impersonating ' . $user->name);
         }
 
-        return redirect("/")->with('error', 'User not found');
+//        return redirect("/")->with('error', 'User not found');
     }
 
     public function stopImpersonating()
